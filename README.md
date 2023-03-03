@@ -1,5 +1,6 @@
 # EXERCISES-AND-PROJECTS-PORTFOLIO-from-the-Data-Science-and-Machine-Learning-Udemy-Bootcamp
 This repository contains all of the notes, exercises and projects offered and completed from the Data Science and Machine Learning Bootcamp on Udemy with Python
+(Please check the -project- titled files in each folder. They are in ipynb form and also converted to pdf form)
 
 The following topics and projects were covered in the bootcamp:
 - A Python Crash Course
