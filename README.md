@@ -20,3 +20,5 @@ The following topics and projects were covered in the bootcamp:
 - Natural Language Processing and the portfolio project that goes with it
 - Neural Nets and Deep Learning with Tensorflow and Keras and both projects that goes with it
 - Big Data and Spark with Python
+
+Thank you !
